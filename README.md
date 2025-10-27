@@ -1,10 +1,10 @@
 # 🧠 Reinforcement Learning Algorithms
 
-![GitHub Repo stars](https://img.shields.io/github/stars/your-username/reinforcement-learning-algorithms?style=for-the-badge&color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/your-username/reinforcement-learning-algorithms?style=for-the-badge&color=orange)
-![GitHub issues](https://img.shields.io/github/issues/your-username/reinforcement-learning-algorithms?style=for-the-badge&color=blue)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/your-username/reinforcement-learning-algorithms?style=for-the-badge&color=brightgreen)
-![License](https://img.shields.io/github/license/your-username/reinforcement-learning-algorithms?style=for-the-badge&color=red)
+![GitHub Repo stars](https://img.shields.io/github/stars/MainakVerse/Reinforcement-Learning?style=for-the-badge&color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/MainakVerse/Reinforcement-Learning?style=for-the-badge&color=orange)
+![GitHub issues](https://img.shields.io/github/issues/MainakVerse/Reinforcement-Learning?style=for-the-badge&color=blue)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/MainakVerse/Reinforcement-Learning?style=for-the-badge&color=brightgreen)
+![License](https://img.shields.io/github/license/MainakVerse/Reinforcement-Learning?style=for-the-badge&color=red)
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg?style=for-the-badge)
 ![Contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=for-the-badge)
 
