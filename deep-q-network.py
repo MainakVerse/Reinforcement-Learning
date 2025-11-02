@@ -1,5 +1,5 @@
 import numpy as np
-import random
+import random #seeding start
 from collections import deque
 
 class DQNAgent:
